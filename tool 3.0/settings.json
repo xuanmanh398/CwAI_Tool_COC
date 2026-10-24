@@ -1,0 +1,40 @@
+{
+  "slots": [
+    {
+      "image": "6.png",
+      "action": [
+        "ctrl",
+        "z"
+      ]
+    },
+    {
+      "image": "7.png",
+      "action": [
+        "ctrl",
+        "x"
+      ]
+    },
+    {
+      "image": "1.png",
+      "action": "click"
+    },
+    {
+      "image": "1.png",
+      "action": "click"
+    }
+  ],
+  "image_actions": {
+    "4.png": [
+      "ctrl",
+      "z"
+    ],
+    "6.png": [
+      "ctrl",
+      "z"
+    ],
+    "7.png": [
+      "ctrl",
+      "x"
+    ]
+  }
+}
